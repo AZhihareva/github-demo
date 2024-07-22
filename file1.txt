@@ -1,2 +1,2 @@
 This is the second change in first file for merge test
-I want to add more changes
+I don't want to add more changes
