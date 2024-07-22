@@ -1,1 +1,1 @@
-This is the first change in first file for merge test
+This is the second change in the first file for merge test
