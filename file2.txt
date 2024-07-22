@@ -1,2 +1,2 @@
-This is the third change in second file for merge test
+This is the fourth change in second file for merge test
 I don't want to add more changes
